@@ -40,7 +40,7 @@
 
 3. 下载Vosk模型
    1. 访问 https://alphacephei.com/vosk/models
-   2. 下载中文模型 `vosk-model-small-cn-0.22`
+   2. 下载中文模型 `vosk-model-small-cn-0.22`  或 `vosk-model-cn-0.22`
    3. 解压下载的模型文件
    4. 在项目根目录创建 `model` 文件夹
    5. 将解压后的模型文件夹中的所有内容复制到 `model` 文件夹中
